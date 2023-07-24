@@ -1,7 +1,7 @@
 # Machine_Learnig_Projects
 <h1 align="center">Hi 👋, I'm SARDAR REZAYEE</h1>
 <h3 align="center">A passionate frontend developer from Herat, Afghanistan currently living in Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif"
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif](https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haji-khan&label=Profile%20views&color=0e75b6&style=flat" alt="haji-khan" /> </p>
 
