@@ -1,7 +1,7 @@
 # Machine_Learnig_Projects
 <h1 align="center">Hi 👋, I'm SARDAR REZAYEE</h1>
 <h3 align="center">A passionate frontend developer from Herat, Afghanistan currently living in Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif](https://th.bing.com/th/id/R.cd37fa49c983ac905df0016fd5b6a2ee?rik=XYhzlatbpAHWnA&pid=ImgRaw&r=0)](https://www.bing.com/images/search?view=detailV2&ccid=7evSeq9Q&id=75EE7FACB4F69D76AFF46873F36775AFD03B92F9&thid=OIP.7evSeq9QFQNMpFI3WjsJaQAAAA&mediaurl=https%3a%2f%2fcdn-images-1.medium.com%2fmax%2f1200%2f1*mr7WXw8tgpMhqugKP2WhrA.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.edebd27aaf5015034ca452375a3b0969%3frik%3d%252bZI70K91Z%252fNzaA%26pid%3dImgRaw%26r%3d0&exph=300&expw=400&q=coder+animated&simid=608046994604435379&FORM=IRPRST&ck=517833EC90D121A91B6392846F173B2A&selectedIndex=8&qpvt=coder+animated)](https://th.bing.com/th/id/OIP.lAolOq-UUW1NAEZ__1XDDAHaHa?pid=ImgDet&rs=1)](https://www.shealord.com/wp-content/uploads/2018/05/Desk_Guy_color_2.gif)"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haji-khan&label=Profile%20views&color=0e75b6&style=flat" alt="haji-khan" /> </p>
 
